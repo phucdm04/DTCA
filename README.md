@@ -1,6 +1,9 @@
 # DTCA Hotel Experiments
 
-This repository is based on **DTCA/DCTA** for multimodal aspect-sentiment analysis: one transformer encoder for text and one transformer encoder for images. The original model implementation is in:
+This repository is based on **DTCA** for multimodal aspect-sentiment analysis: one transformer encoder for text and one transformer encoder for images. The original README points to the dataset links from the paper **Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection** with source code at https://github.com/windforfurture/DTCA.
+
+
+The original model implementation is in:
 
 ```text
 model/modeling_dtca.py
@@ -70,7 +73,7 @@ datasets\twitter2017
 datasets\twitter2017_images
 ```
 
-The original README points to the dataset links from the paper **Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection** with source code at https://github.com/windforfurture/DTCA.
+
 
 ### Hotel
 
