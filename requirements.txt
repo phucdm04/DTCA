@@ -1,0 +1,6 @@
+transformers
+datasets
+scikit-learn
+pytorch-crf
+accelerate>=0.21.0
+matplotlib

@@ -1,0 +1,32 @@
+# Data and generated training artifacts
+datasets/
+logs/
+results/
+result.txt
+result_*.txt
+
+# Local pretrained/checkpoint model folders
+models/
+bert-base-uncased/
+blip-image-captioning-base/
+clip-vit-base-patch32/
+roberta-base/
+vit-base-patch16-224-in21k/
+vit-gpt2-image-captioning/
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local editor/runtime noise
+.env
+.venv/
+*.log
