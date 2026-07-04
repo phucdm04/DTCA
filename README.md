@@ -70,7 +70,7 @@ datasets\twitter2017
 datasets\twitter2017_images
 ```
 
-The original README points to the dataset links from the paper *Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection*.
+The original README points to the dataset links from the paper **Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection** with source code at https://github.com/windforfurture/DTCA.
 
 ### Hotel
 
